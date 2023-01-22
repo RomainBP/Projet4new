@@ -355,6 +355,7 @@ a:hover {
     float: left;
 }
 
+
 .nav-invert .navbar-header,
 .nav-invert .navbar-brand {
     float: right;
@@ -662,6 +663,10 @@ a {
     font-size: 38px;
 }
 
+.text_black{
+    color: #000000;
+    font-size: larger;
+}
 .hero-bloc-text-sub {
     font-size: 36px;
 }
